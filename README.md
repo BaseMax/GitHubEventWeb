@@ -2,8 +2,8 @@
 
 ## GitHub Pages
 
-- https://basemax.github.io/GitHubPOSSF/index.html
-- https://basemax.github.io/GitHubPOSSF/errro.html
-- https://basemax.github.io/GitHubPOSSF/profile.html
-- https://basemax.github.io/GitHubPOSSF/blog.html
-- https://basemax.github.io/GitHubPOSSF/faq.html
+- https://basemax.github.io/GitHubEventWeb/index.html
+- https://basemax.github.io/GitHubEventWeb/errro.html
+- https://basemax.github.io/GitHubEventWeb/profile.html
+- https://basemax.github.io/GitHubEventWeb/blog.html
+- https://basemax.github.io/GitHubEventWeb/faq.html
