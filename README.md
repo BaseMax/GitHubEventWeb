@@ -1,5 +1,9 @@
 # GitHub Event Website Template
 
+## GitHub Universe 2020
+
+Join us online as we explore the future of software development.
+
 ## GitHub Pages
 
 - https://basemax.github.io/GitHubEventWeb/index.html
