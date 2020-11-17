@@ -4,6 +4,8 @@
 
 Join us online as we explore the future of software development.
 
+[![GitHub Event Website Template](demo.png)](https://basemax.github.io/GitHubEventWeb/index.html)
+
 ## GitHub Pages
 
 - https://basemax.github.io/GitHubEventWeb/index.html
