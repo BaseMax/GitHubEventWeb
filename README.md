@@ -14,7 +14,7 @@ Join us online as we explore the future of software development.
 - https://basemax.github.io/GitHubEventWeb/blog.html
 - https://basemax.github.io/GitHubEventWeb/faq.html
 
-## License
+## Theme License
 
 Consider that the codes are all written by me.
 But next to them, there are images implemented by the company's graphic designers. (GitHub Co)
