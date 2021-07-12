@@ -4,6 +4,13 @@
 
 Join us online as we explore the future of software development.
 
+If you want to attend the main event: you have to visit POSSF.IR website. (https://github.com/POSSF/POSSF)
+
+### Related Repository
+
+- Jekyll, Ruby-based: https://github.com/POSSF/POSSF
+- Pure HTML,CSS,JS: https://github.com/BaseMax/POSSF-Web
+
 [![GitHub Event Website Template](demo.png)](https://basemax.github.io/GitHubEventWeb/index.html)
 
 ## GitHub Pages
